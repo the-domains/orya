@@ -2,6 +2,7 @@ name: orya
 favicon: null
 layout_spectrum: 0.06682771979831159
 typography_spectrum: 0.030815889593213797
+title: Orya
 cta:
   domain: null
   bucket: null
